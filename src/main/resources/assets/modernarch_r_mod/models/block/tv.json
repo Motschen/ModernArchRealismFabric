@@ -1,0 +1,9 @@
+{
+  "parent": "modernarch_r_mod:custom/tv",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/tv_front",
+    "particle": "modernarch_r_mod:blocks/tv_front",
+    "0": "modernarch_r_mod:blocks/tv_front",
+    "1": "modernarch_r_mod:blocks/tv_back"
+  }
+}

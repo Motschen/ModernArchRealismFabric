@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "modernarch_r_mod:block/fridge"
+    },
+    "facing=east": {
+      "model": "modernarch_r_mod:block/fridge",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "modernarch_r_mod:block/fridge",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "modernarch_r_mod:block/fridge",
+      "y": 270
+    }
+  }
+}

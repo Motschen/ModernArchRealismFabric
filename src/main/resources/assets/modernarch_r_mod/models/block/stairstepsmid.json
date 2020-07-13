@@ -1,0 +1,8 @@
+{
+  "parent": "modernarch_r_mod:custom/stair_steps_mid",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/grid",
+    "particle": "modernarch_r_mod:blocks/grid",
+    "1": "modernarch_r_mod:blocks/strairs_wood"
+  }
+}

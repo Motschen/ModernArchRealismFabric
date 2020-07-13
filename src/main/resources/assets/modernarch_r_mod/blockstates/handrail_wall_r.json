@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "modernarch_r_mod:block/handrail_wall_r"
+    },
+    "facing=east": {
+      "model": "modernarch_r_mod:block/handrail_wall_r",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "modernarch_r_mod:block/handrail_wall_r",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "modernarch_r_mod:block/handrail_wall_r",
+      "y": 270
+    }
+  }
+}

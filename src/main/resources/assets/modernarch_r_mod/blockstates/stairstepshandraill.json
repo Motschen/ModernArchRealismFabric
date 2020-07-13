@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "modernarch_r_mod:block/stairstepshandraill"
+    },
+    "facing=east": {
+      "model": "modernarch_r_mod:block/stairstepshandraill",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "modernarch_r_mod:block/stairstepshandraill",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "modernarch_r_mod:block/stairstepshandraill",
+      "y": 270
+    }
+  }
+}

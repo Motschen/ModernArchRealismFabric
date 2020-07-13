@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": {
+      "model": "modernarch_r_mod:block/ceilinglamp",
+      "x": 90
+    }
+  }
+}

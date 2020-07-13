@@ -1,0 +1,9 @@
+{
+  "parent": "modernarch_r_mod:custom/table1",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/modern_chair_wood",
+    "particle": "modernarch_r_mod:blocks/modern_chair_wood",
+    "0": "modernarch_r_mod:blocks/modern_chair_wood",
+    "1": "modernarch_r_mod:blocks/metal"
+  }
+}

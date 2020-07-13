@@ -1,0 +1,10 @@
+{
+  "parent": "modernarch_r_mod:custom/handrail_l",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/grid",
+    "particle": "modernarch_r_mod:blocks/grid",
+    "0": "modernarch_r_mod:blocks/grid",
+    "1": "modernarch_r_mod:blocks/strairs_wood",
+    "2": "modernarch_r_mod:blocks/strairs_metal"
+  }
+}

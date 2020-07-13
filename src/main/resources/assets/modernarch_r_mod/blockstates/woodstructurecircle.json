@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "modernarch_r_mod:block/woodstructurecircle"
+    },
+    "facing=east": {
+      "model": "modernarch_r_mod:block/woodstructurecircle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "modernarch_r_mod:block/woodstructurecircle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "modernarch_r_mod:block/woodstructurecircle",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "modernarch_r_mod:block/woodstructurecircle",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "modernarch_r_mod:block/woodstructurecircle",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "modernarch_r_mod:custom/white_round_carpet",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/white_round_carpet",
+    "particle": "modernarch_r_mod:blocks/white_round_carpet",
+    "0": "modernarch_r_mod:blocks/white_round_carpet"
+  }
+}

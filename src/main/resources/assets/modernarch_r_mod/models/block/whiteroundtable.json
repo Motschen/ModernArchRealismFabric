@@ -1,0 +1,9 @@
+{
+  "parent": "modernarch_r_mod:custom/white_table",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/white_wood",
+    "particle": "modernarch_r_mod:blocks/white_wood",
+    "0": "modernarch_r_mod:blocks/white_wood",
+    "1": "modernarch_r_mod:blocks/armchair_metal"
+  }
+}

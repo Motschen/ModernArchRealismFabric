@@ -1,0 +1,9 @@
+{
+  "parent": "modernarch_r_mod:custom/sofa",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/sofa_wood",
+    "particle": "modernarch_r_mod:blocks/sofa_wood",
+    "0": "modernarch_r_mod:blocks/sofa",
+    "1": "modernarch_r_mod:blocks/sofa_wood"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "modernarch_r_mod:block/bed"
+    },
+    "facing=east": {
+      "model": "modernarch_r_mod:block/bed",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "modernarch_r_mod:block/bed",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "modernarch_r_mod:block/bed",
+      "y": 270
+    }
+  }
+}

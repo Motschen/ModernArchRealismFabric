@@ -1,0 +1,9 @@
+{
+  "parent": "modernarch_r_mod:custom/ceiling_lamp",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/ceiling_lamp",
+    "particle": "modernarch_r_mod:blocks/ceiling_lamp",
+    "0": "modernarch_r_mod:blocks/ceiling_lamp",
+    "1": "modernarch_r_mod:blocks/ceiling_lamp_light"
+  }
+}

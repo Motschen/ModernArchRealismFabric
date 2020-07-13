@@ -1,0 +1,11 @@
+{
+  "parent": "modernarch_r_mod:custom/b_sink",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/b_sink_drain",
+    "particle": "modernarch_r_mod:blocks/b_sink_drain",
+    "0": "modernarch_r_mod:blocks/b_sink_wood",
+    "1": "modernarch_r_mod:blocks/b_sink_quartz",
+    "2": "modernarch_r_mod:blocks/b_sink_drain",
+    "3": "modernarch_r_mod:blocks/tap"
+  }
+}

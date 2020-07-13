@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "modernarch_r_mod:block/stairs"
+    },
+    "facing=east": {
+      "model": "modernarch_r_mod:block/stairs",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "modernarch_r_mod:block/stairs",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "modernarch_r_mod:block/stairs",
+      "y": 270
+    }
+  }
+}

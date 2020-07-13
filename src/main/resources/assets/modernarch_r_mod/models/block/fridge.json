@@ -1,0 +1,14 @@
+{
+  "parent": "modernarch_r_mod:custom/fridgee",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/fridge_metal_mdrnarch",
+    "particle": "modernarch_r_mod:blocks/fridge_metal_mdrnarch",
+    "0": "modernarch_r_mod:blocks/blck_color",
+    "1": "modernarch_r_mod:blocks/panel",
+    "2": "modernarch_r_mod:blocks/panel_side",
+    "3": "modernarch_r_mod:blocks/fridge_metal",
+    "4": "modernarch_r_mod:blocks/fridge_metal_mdrnarch",
+    "5": "modernarch_r_mod:blocks/plastic",
+    "missing": "modernarch_r_mod:blocks/plastic"
+  }
+}

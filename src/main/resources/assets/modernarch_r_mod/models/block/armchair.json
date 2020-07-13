@@ -1,0 +1,9 @@
+{
+  "parent": "modernarch_r_mod:custom/armchair",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/armchair_front",
+    "particle": "modernarch_r_mod:blocks/armchair_front",
+    "1": "modernarch_r_mod:blocks/armchair_side",
+    "2": "modernarch_r_mod:blocks/armchair_metal"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "modernarch_r_mod:block/stair_steps_handrail_wall_l"
+    },
+    "facing=east": {
+      "model": "modernarch_r_mod:block/stair_steps_handrail_wall_l",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "modernarch_r_mod:block/stair_steps_handrail_wall_l",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "modernarch_r_mod:block/stair_steps_handrail_wall_l",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "modernarch_r_mod:custom/wood_structure_circle",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/circle_structure",
+    "particle": "modernarch_r_mod:blocks/circle_structure",
+    "1": "modernarch_r_mod:blocks/wood_structure",
+    "2": "modernarch_r_mod:blocks/circle_structure"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "modernarch_r_mod:custom/notebook",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/notebook_back_logo",
+    "particle": "modernarch_r_mod:blocks/notebook_back_logo",
+    "0": "modernarch_r_mod:blocks/notebook_back",
+    "1": "modernarch_r_mod:blocks/notebook_keyboard",
+    "2": "modernarch_r_mod:blocks/notebook_back_logo",
+    "3": "modernarch_r_mod:blocks/notebook_screen"
+  }
+}

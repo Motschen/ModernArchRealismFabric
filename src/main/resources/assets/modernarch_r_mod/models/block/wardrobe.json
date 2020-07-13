@@ -1,0 +1,10 @@
+{
+  "parent": "modernarch_r_mod:custom/wardrobe",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/wardrobe_wood",
+    "particle": "modernarch_r_mod:blocks/wardrobe_wood",
+    "0": "modernarch_r_mod:blocks/wardrobe_wood",
+    "1": "modernarch_r_mod:blocks/wardrobe_mirror",
+    "2": "modernarch_r_mod:blocks/wardrobe_metal"
+  }
+}

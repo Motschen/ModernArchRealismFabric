@@ -1,0 +1,11 @@
+{
+  "parent": "modernarch_r_mod:custom/plant",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/armchair_metal_s",
+    "particle": "modernarch_r_mod:blocks/armchair_metal_s",
+    "0": "modernarch_r_mod:blocks/plant_leaves",
+    "1": "modernarch_r_mod:blocks/dirt",
+    "2": "modernarch_r_mod:blocks/white_concrete",
+    "3": "modernarch_r_mod:blocks/oak_log"
+  }
+}

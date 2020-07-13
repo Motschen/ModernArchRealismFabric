@@ -1,0 +1,10 @@
+{
+  "parent": "modernarch_r_mod:custom/kitchen_sink_2",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/wood_kitchen_sink",
+    "particle": "modernarch_r_mod:blocks/wood_kitchen_sink",
+    "1": "modernarch_r_mod:blocks/b_sink_quartz",
+    "3": "modernarch_r_mod:blocks/metal_kitchen_sink",
+    "4": "modernarch_r_mod:blocks/wood_kitchen_sink"
+  }
+}

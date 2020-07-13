@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "modernarch_r_mod",
+  "version": "8.0.0-fabric",
+
+  "name": "ModernArch Realism Mod",
+  "description": "High quality realistic decoration. Meant to be used with the ModernArch resourcepack.",
+  "authors": [
+    "Designio Graphics",
+    "Motschen"
+  ],
+  "contact": {
+    "homepage": "https://www.designio.graphics/"
+  },
+
+  "license": "MIT",
+  "icon": "assets/modernarch_r_mod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "eu.midnightdust.motschen.modernarch.ModernArchMain"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.7.2",
+    "fabric": "*"
+  },
+  "suggests": {
+    "optifabric": "*"
+  }
+}

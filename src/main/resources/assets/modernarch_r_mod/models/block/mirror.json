@@ -1,0 +1,8 @@
+{
+  "parent": "modernarch_r_mod:custom/mirror",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/mirror",
+    "particle": "modernarch_r_mod:blocks/mirror",
+    "0": "modernarch_r_mod:blocks/mirror"
+  }
+}

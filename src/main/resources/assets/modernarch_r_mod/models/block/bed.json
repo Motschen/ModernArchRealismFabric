@@ -1,0 +1,13 @@
+{
+  "parent": "modernarch_r_mod:custom/black_bed",
+  "textures": {
+    "all": "modernarch_r_mod:blocks/blck_wood_bed",
+    "particle": "modernarch_r_mod:blocks/blck_wood_bed",
+    "0": "modernarch_r_mod:blocks/wood_bed",
+    "1": "modernarch_r_mod:blocks/blck_wood_bed",
+    "2": "modernarch_r_mod:blocks/white_sheet",
+    "3": "modernarch_r_mod:blocks/pillow",
+    "4": "modernarch_r_mod:blocks/black_sheet",
+    "5": "modernarch_r_mod:blocks/bend_sheet"
+  }
+}
